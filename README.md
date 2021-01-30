@@ -17,6 +17,8 @@ Atráves da leitura, processamento e treinamento de imagens de leucócitos, este
 - Execute `jupyter notebook` e na janela que será aberta em seu navegador, abra o arquivo [leucocitos.ipynb](./leucocitos.ipynb)
 - Clique em `Run` para executar cada trecho de código.
 
+*Observação: o conjunto de imagens esta disponível no repositório como `data.zip`. Na primeira execução do script é necessário descompacta-lo.*
+
 ## Relatório
 
-Você pode verificar o relatório do trabalho juntamente com o código fonte no arquivo [leucocitos.ipynb](./leucocitos.ipynb). Isso pode ser realizado localmente seguindo o passo a passo do tópico `Uso` ou abrindo o arquivo diretamente no github.
+Você pode verificar o relatório do trabalho juntamente com o código fonte no arquivo [leucocitos.ipynb](./leucocitos.ipynb). Isso pode ser realizado localmente seguindo o passo a passo do tópico [Uso](https://github.com/Alice-Scholze/leucocitos#uso) ou abrindo o arquivo diretamente no github.
